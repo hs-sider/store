@@ -1,0 +1,22 @@
+{
+  "products" : [
+    {
+      "code": "prod-01",
+      "name": "Water 2 Lt",
+      "price": 6,
+      "stock": 0
+    },
+    {
+      "code": "prod-02",
+      "name": "Coke 2.5 Lt",
+      "price": 9,
+      "stock": 0
+    },
+    {
+      "code": "prod-03",
+      "name": "Milk 1 Lt",
+      "price": 7,
+      "stock": 0
+    }
+  ]
+}

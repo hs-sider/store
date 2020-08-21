@@ -1,0 +1,110 @@
+{
+  "products" : [
+    {
+      "code": "prod-01",
+      "name": "Water 2 Lt",
+      "price": 6,
+      "stock": 0
+    },
+    {
+      "code": "prod-02",
+      "name": "Coke 2.5 Lt",
+      "price": 9,
+      "stock": 0
+    },
+    {
+      "code": "prod-03",
+      "name": "Milk 1 Lt",
+      "price": 7,
+      "stock": 0
+    }
+  ],
+
+  "transactions" : [
+    {
+      "productCode": "prod-01",
+      "type": "PURCHASE",
+      "quantity": 120,
+      "date": "2020-04-01"
+    },
+    {
+      "productCode": "prod-02",
+      "type": "PURCHASE",
+      "quantity": 100,
+      "date": "2020-04-01"
+    },
+    {
+      "productCode": "prod-03",
+      "type": "PURCHASE",
+      "quantity": 20,
+      "date": "2020-04-02"
+    },
+    {
+      "productCode": "prod-01",
+      "type": "SALE",
+      "quantity": 2,
+      "date": "2020-05-15"
+    },
+    {
+      "productCode": "prod-02",
+      "type": "SALE",
+      "quantity": 3,
+      "date": "2020-05-20"
+    },
+    {
+      "productCode": "prod-03",
+      "type": "SALE",
+      "quantity": 2,
+      "date": "2020-05-25"
+    },
+    {
+      "productCode": "prod-01",
+      "type": "SALE",
+      "quantity": 5,
+      "date": "2020-06-15"
+    },
+    {
+      "productCode": "prod-02",
+      "type": "SALE",
+      "quantity": 4,
+      "date": "2020-06-20"
+    },
+    {
+      "productCode": "prod-03",
+      "type": "SALE",
+      "quantity": 6,
+      "date": "2020-06-25"
+    },
+    {
+      "productCode": "prod-01",
+      "type": "SALE",
+      "quantity": 1,
+      "date": "2020-07-15"
+    },
+    {
+      "productCode": "prod-02",
+      "type": "SALE",
+      "quantity": 2,
+      "date": "2020-07-20"
+    },
+    {
+      "productCode": "prod-03",
+      "type": "SALE",
+      "quantity": 1,
+      "date": "2020-07-25"
+    },
+    {
+      "productCode": "prod-01",
+      "type": "SALE",
+      "quantity": 2,
+      "date": "2020-08-15"
+    },
+    {
+      "productCode": "prod-02",
+      "type": "SALE",
+      "quantity": 3,
+      "date": "2020-08-20"
+    }
+  ]
+
+}

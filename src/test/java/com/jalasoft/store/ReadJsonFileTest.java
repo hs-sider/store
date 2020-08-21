@@ -1,7 +1,7 @@
 package com.jalasoft.store;
 
 import com.jalasoft.store.model.Store;
-import com.jalasoft.store.service.deserializer.JsonReader;
+import com.jalasoft.store.service.data.reader.JsonReader;
 import org.junit.jupiter.api.Test;
 
 import java.io.IOException;

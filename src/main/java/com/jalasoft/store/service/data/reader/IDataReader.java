@@ -1,4 +1,4 @@
-package com.jalasoft.store.service.deserializer;
+package com.jalasoft.store.service.data.reader;
 
 import com.jalasoft.store.model.Store;
 

@@ -1,7 +1,7 @@
 package com.jalasoft.store.model;
 
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
-import com.jalasoft.store.service.deserializer.StoreDeserializer;
+import com.jalasoft.store.service.data.reader.StoreDeserializer;
 
 import java.util.List;
 

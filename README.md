@@ -33,4 +33,6 @@
 - localhost:8080/api/v0/sale (Body {productCode: prod-03, quantity: 5})
 - localhost:8080/api/v0/purchase (Body {productCode: prod-01, quantity: 20})
 - localhost:8080/api/v0/report?type=product&subType=overstock
+- localhost:8080/api/v0/report?type=product&subType=lowstock
 - localhost:8080/api/v0/report?type=date&subType=lastweek
+- localhost:8080/api/v0/report?type=date&subType=lastmonth
